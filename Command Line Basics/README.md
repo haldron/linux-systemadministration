@@ -19,7 +19,7 @@ Press tab twice to get suggestions to complete a command
 
 ## Useful basic linux commands
 
-"""
+```
 ls -l : List the contents of the folder
 
 man -command name- : Open the manual pages for the command
@@ -66,11 +66,11 @@ ln - Create hard or soft symbolic links to files (soft links break if file is mo
 echo : display text
 
 rev : reverse print the file 
-"""
+```
 
 ## Useful advanced linux commands
 
-"""
+```
 '*' : Wildcard for anything
 
 '?' : Wildcard for only one character 
@@ -113,10 +113,10 @@ chgrp : Change group of a file
 
 0,1 and 2 : Represent standard input, output and error
 (eg. ls 1 > filelist.txt)
-"""
+```
 
 ## Useful basic system info commands
-"""
+```
 uname : View information about operating system
 
 free -h : View information about system memeory
@@ -132,7 +132,7 @@ See system IP : curl ifconfig.me
 ls -lah /etc/*release : distro and kernel info
 
 cat /proc/cpuinfo
-"""
+```
 
 ## Commonly folders of the linux filesystem
 / : root
