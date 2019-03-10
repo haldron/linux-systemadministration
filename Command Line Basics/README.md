@@ -138,15 +138,25 @@ cat /proc/cpuinfo
 / : root
 
 Inside root -
+
 home : users home folders
+
 root : root's home folder
+
 etc : Config files for tools
+
 bin and sbin : binaries 
+
 lib : libraries and shared modules
+
 dev : devices on the system
+
 mnt : local and remote filesystem mounts
+
 media : removable storage mounts
+
 proc : virtual processes
+
 sys : kernel virtual values
 
 
