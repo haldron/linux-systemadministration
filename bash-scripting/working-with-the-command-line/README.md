@@ -70,7 +70,7 @@ Add -c with number of pings to limit the packets
 
 cut : Cut up a input based on specific criteria
 Eg. ping -c 1 example.com | grep 'bytes from' | cut -d = -f 4
-
+# Notes
 ## Understanding bash script syntax
 A script can contain variables, arguments and flow control logic unlike just typing one command into the shell
 its like a program to give to bash to execute
@@ -81,7 +81,7 @@ here /bin/bash is path to the executable which runs the script
 
 '#' added before the line is for comments
 
-# Creating a bash script
+## Creating a bash script
 
 Use vim or nano to create the script
 
